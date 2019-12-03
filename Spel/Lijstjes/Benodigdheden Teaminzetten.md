@@ -6,7 +6,7 @@ Brand in kantoorpand:
 - 3x Redvoertuig
 - 3x Slangenwagen, tankwagen of gelijkwaardige haakarmbak
 - 1x Adembeschermingsvoertuig of haakarmbak
-<br/>
+
 Brand in opslagloods:
 
 - 16x Tankautospuit
@@ -17,7 +17,7 @@ Brand in opslagloods:
 - 4x Redvoertuig
 - 1x Adembeschermingsvoertuig of haakarmbak
 - 1x Commandowagen of haakarmbak
-<br/>
+
 Kettingbotsing:
 
 - 8x Tankautospuit
@@ -26,9 +26,8 @@ Kettingbotsing:
 - 1x Hoofdofficier van dienst brandweer
 - 8x Noodhulp
 - 1x Commandowagen of haakarmbak
-
 - Ambulances n.a.v. aantal patiënten 
-<br/>
+
 Natuurbrand:
 
 - 40x Tankautospuit
@@ -39,7 +38,7 @@ Natuurbrand:
 - 4x Hoofdofficier van dienst brandweer
 - 2x Commandowagen of haakarmbak
 - 2x Noodhulp
-<br/>
+
 VOS 6 Vliegtuig neergestort:
 
 - 12x Tankautospuit
@@ -53,7 +52,7 @@ VOS 6 Vliegtuig neergestort:
 - 12x Noodhulp
 - Ambulances n.a.v. aantal patiënten 
 - MMT 
-<br/>
+
 Brand in opslagloods met gevaarlijke stoffen:
 
 - 24x Tankautospuit
@@ -67,7 +66,7 @@ Brand in opslagloods met gevaarlijke stoffen:
 - 1x Hoofdofficier van dienst
 - 1x Commandowagen of haakarmbak
 - 5x Noodhulp
-<br/>
+
 Brand bij afvalverwerker
 
 - 20x Tankautospuit
